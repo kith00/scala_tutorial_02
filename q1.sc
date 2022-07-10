@@ -92,5 +92,5 @@ def FindBestPrice(priceIncrese: Int, priceDecrese: Int): Float = {
 }
 
 println("Best ticket price Rs: ")
-FindBestPrice(10, -10)
+FindBestPrice(5, -5)
 
